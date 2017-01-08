@@ -1,0 +1,6 @@
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\bin\Debug\Reverser.exe.config
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\bin\Debug\Reverser.exe
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\bin\Debug\Reverser.pdb
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\obj\Debug\Reverser.csprojResolveAssemblyReference.cache
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\obj\Debug\Reverser.exe
+c:\users\mr.fathi\documents\visual studio 2012\Projects\Reverser\Reverser\obj\Debug\Reverser.pdb
