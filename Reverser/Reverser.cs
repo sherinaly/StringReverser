@@ -9,11 +9,11 @@ namespace Reverser
         /// <returns>System.String.</returns>
         public static string ReverseThisString(string inputStringToReverse)
         {
-            var splitter = inputStringToReverse.Split();
-            var n = splitter.Length;
+            var splitString = inputStringToReverse.Split();
+            var n = splitString.Length;
             var reversed = "";
             for (var i = n - 1; i >= 0; i--)
-                reversed = reversed + splitter[i] + " ";
+                reversed = reversed + splitString[i] + " ";
             return reversed;
         }
     }
