@@ -1,13 +1,13 @@
 namespace Reverser
 {
-    class Reverser
+    class StringReverser
     {
         /// <summary>
-        /// Reverses the order of the input string.
+        /// Reverse the order of words in the input string.
         /// </summary>
         /// <param name="inputStringToReverse">The inputStringToReverse.</param>
         /// <returns>System.String.</returns>
-        public static string ReverseThisString(string inputStringToReverse)
+        public static string ReverseWordOrderInThisString(string inputStringToReverse)
         {
             var splitString = inputStringToReverse.Split();
             var n = splitString.Length;
